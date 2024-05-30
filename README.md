@@ -15,7 +15,7 @@ Here is an example of how to plot time complexities with the first solution I pu
 
 Compile it (If it's C):
 ```
-g++ -o main 1000-1500/1442.cpp
+g++ -o main 1000-1500/1442/1442.cpp
 ```
 
 Run it

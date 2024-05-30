@@ -1,5 +1,5 @@
 // Compile:
-// g++ -o main 1000-1500/1442.cpp
+// g++ -o main 1000-1500/1442/1442.cpp
 //
 // Plot time complexities:
 // ./main 15 | ./plotit
